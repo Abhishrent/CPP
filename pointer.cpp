@@ -1,6 +1,7 @@
 /*
 A pointer is a variable that stores the address of another variable.
 Like any variable or constant, you must declare a pointer before you can use it to store any variable address.
+A pointer points to a variable of the same data type only.
 
 A pointer variable is declared like other variables, with the data type followed by an asterisk (*) and the variable name.
 For example: int *x;
