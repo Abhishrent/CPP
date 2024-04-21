@@ -1,1 +1,1 @@
-This repository contains basic programs revolving around the various concepts of C++ 
+This repository covers the basics of C++ Programming concepts.
